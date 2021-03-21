@@ -1,0 +1,6 @@
+header {
+    height: 400px;
+    background-image: url('../Images/background.jpg');
+    background-position: center;
+    background-size: cover;
+}
